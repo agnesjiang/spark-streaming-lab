@@ -1,4 +1,4 @@
-# ANLY502 - Massive Data Fundamentals<br>Lab L10: Spark Streaming
+#L10: Spark Streaming
 
 ## Start your cluster
 
@@ -19,8 +19,8 @@ Once the cluster is in "Waiting" mode (should only take a few minutes), please `
 
 ```
 sudo yum install -y git
-git clone https://github.com/gu-anly502/lab10-spring-2018.git
-cd lab10-spring-2018.git
+git clone https://github.com/bigdatateaching/spark-streaming-lab.git
+cd spark-streaming-lab.git
 bash post-startup-ipython-jupyter-py2-setup.sh 
 ```
 
